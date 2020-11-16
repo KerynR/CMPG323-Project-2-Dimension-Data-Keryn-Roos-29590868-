@@ -7,5 +7,6 @@ namespace KRoos_29590868_Project2_DimensionData.Models
 {
     public class AspNetUsers
     {
+        
     }
 }

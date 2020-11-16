@@ -7,5 +7,8 @@ namespace KRoos_29590868_Project2_DimensionData.Models
 {
     public class EmployeeEducation
     {
+        public string EducationID { get; set; }
+        public string Education { get; set; }
+        public string EducationField { get; set; }
     }
 }

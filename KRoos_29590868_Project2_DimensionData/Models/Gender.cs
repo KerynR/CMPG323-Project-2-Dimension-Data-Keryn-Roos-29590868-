@@ -7,5 +7,7 @@ namespace KRoos_29590868_Project2_DimensionData.Models
 {
     public class Gender
     {
+        public int GenderID { get; set; }
+        //public string Gender { get; set; }
     }
 }
