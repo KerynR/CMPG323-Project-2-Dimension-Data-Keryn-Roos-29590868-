@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -9,7 +10,8 @@ namespace KRoos_29590868_Project2_DimensionData.Models
     {
 
         private string connectionString = "Data Source=dimensiondataserver20.database.windows.net;Initial Catalog=DataDimensionDB;User ID=azureuser;Password=********;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-        
+
+        [Key]
         public int EmployeeNumer { get; set; }
         public string PayID { get; set; }
         public string EmpID { get; set; }

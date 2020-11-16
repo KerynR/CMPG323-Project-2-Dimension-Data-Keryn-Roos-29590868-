@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -8,6 +9,7 @@ namespace KRoos_29590868_Project2_DimensionData.Models
     public class CostToCompany
     {
         
+        [Key]
         public string PayID { get; set; }
         public string HourlyRate { get; set; }
         public string MonthlyRate { get; set; }
