@@ -182,9 +182,6 @@ C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Pro
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\KRoos_29590868_Project2_DimensionData.csproj.CoreCompileInputs.cache
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\KRoos_29590868_Project2_DimensionData.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\KRoos_29590868_Project2_DimensionData.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\CostToCompanies\Create.cshtml.g.cs
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\CostToCompanies\Delete.cshtml.g.cs
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\CostToCompanies\Details.cshtml.g.cs
@@ -230,3 +227,10 @@ C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Pro
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\MaritalStatus\Details.cshtml.g.cs
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\MaritalStatus\Edit.cshtml.g.cs
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\MaritalStatus\Index.cshtml.g.cs
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\Surveys\Create.cshtml.g.cs
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\Surveys\Delete.cshtml.g.cs
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\Surveys\Details.cshtml.g.cs
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\Surveys\Edit.cshtml.g.cs
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\Surveys\Index.cshtml.g.cs
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Xrm.Sdk.dll

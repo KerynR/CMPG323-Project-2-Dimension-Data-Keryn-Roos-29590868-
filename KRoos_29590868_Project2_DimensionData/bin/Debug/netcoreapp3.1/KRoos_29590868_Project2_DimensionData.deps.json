@@ -27,6 +27,7 @@
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.8",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.8",
           "Microsoft.AspNetCore.Identity.UI": "3.1.8",
+          "Microsoft.CrmSdk.CoreAssemblies": "9.0.2.28",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.9",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.9",
@@ -674,6 +675,22 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Workspaces.dll": {}
+        }
+      },
+      "Microsoft.CrmSdk.CoreAssemblies/9.0.2.28": {
+        "runtime": {
+          "lib/net462/Microsoft.Crm.Sdk.Proxy.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.45.4458"
+          },
+          "lib/net462/Microsoft.Xrm.Sdk.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.45.4458"
+          }
+        },
+        "compile": {
+          "lib/net462/Microsoft.Crm.Sdk.Proxy.dll": {},
+          "lib/net462/Microsoft.Xrm.Sdk.dll": {}
         }
       },
       "Microsoft.CSharp/4.7.0": {},
@@ -4219,6 +4236,13 @@
       "sha512": "sha512-NfBz3b5hFSbO+7xsCNryD+p8axsIJFTG7qM3jvMTC/MqYrU6b8E1b6JoRj5rJSOBB+pSunk+CMqyGQTOWHeDUg==",
       "path": "microsoft.codeanalysis.workspaces.common/3.3.1",
       "hashPath": "microsoft.codeanalysis.workspaces.common.3.3.1.nupkg.sha512"
+    },
+    "Microsoft.CrmSdk.CoreAssemblies/9.0.2.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cu78hUHLVtP8xkgzyfcD0Ms0g3olCiv2NXBMIN8jRp5aPaEukpZtl+vh6CqwAU6Rkk6rVwdoJ66x87k6hipl1A==",
+      "path": "microsoft.crmsdk.coreassemblies/9.0.2.28",
+      "hashPath": "microsoft.crmsdk.coreassemblies.9.0.2.28.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",
