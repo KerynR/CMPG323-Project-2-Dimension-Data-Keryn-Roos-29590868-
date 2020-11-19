@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HYt2uC9n6QCQQ+35fydTDL6eor9NpXfdcd8GPXW4jvFWwrLjKLVPLzFhwzK0VbWepKulZKxI5f3gVFtwlSW44Q==",
+  "dgSpecHash": "wgWLwM6HK5fQfIJ+m4YHfAPXZzadrDjj8gFfiph2XQw1418TLvIuz6ytALVE7IV4kyHSIS2/7yCZO9lodwV1Hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\user-pc\\Documents\\NWU\\2nd Semester\\CMPG323\\Project 2\\KRoos_29590868_Project2_DimensionData\\KRoos_29590868_Project2_DimensionData\\KRoos_29590868_Project2_DimensionData.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.4\\microsoft.codeanalysis.analyzers.2.9.4.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.1\\microsoft.codeanalysis.common.3.3.1.nupkg.sha512",
     "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.1\\microsoft.codeanalysis.csharp.3.3.1.nupkg.sha512",

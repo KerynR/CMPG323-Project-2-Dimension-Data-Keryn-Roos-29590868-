@@ -27,7 +27,6 @@ C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Pro
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -157,10 +156,6 @@ C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Pro
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
@@ -234,3 +229,8 @@ C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Pro
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\Razor\Views\Surveys\Index.cshtml.g.cs
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Crm.Sdk.Proxy.dll
 C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Xrm.Sdk.dll
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\KRoos_29590868_Project2_DimensionData.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\KRoos_29590868_Project2_DimensionData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user-pc\Documents\NWU\2nd Semester\CMPG323\Project 2\KRoos_29590868_Project2_DimensionData\KRoos_29590868_Project2_DimensionData\obj\Debug\netcoreapp3.1\KRoos_29590868_Project2_DimensionData.MvcApplicationPartsAssemblyInfo.cache

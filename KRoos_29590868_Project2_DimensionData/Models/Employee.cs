@@ -13,13 +13,13 @@ namespace KRoos_29590868_Project2_DimensionData.Models
 
         [Key]
         public int EmployeeNumer { get; set; }
-        public string PayID { get; set; }
-        public string EmpID { get; set; }
-        public string empHistoryID { get; set; }
-        public string educationID { get; set; }
-        public string SurveyID { get; set; }
-        public string empPerformanceID { get; set; }
-        public string JobID { get; set; }
+        public int? ID { get; set; }
+        public int? EmpID { get; set; }
+        public int? empHistoryID { get; set; }
+        public int? educationID { get; set; }
+        public int? SurveyID { get; set; }
+        public int? empPerformanceID { get; set; }
+        public int? JobID { get; set; }
 
         public virtual EmployeeDetails Details { get; set; }
         public virtual EmployeeEducation Education { get; set; }

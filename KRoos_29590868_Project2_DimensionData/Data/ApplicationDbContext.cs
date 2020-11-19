@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using KRoos_29590868_Project2_DimensionData.Models;
+//using KRoos_29590868_Project2_DimensionData.Models;
+//using Microsoft.EntityFrameworkCore.SqlServer;
+//using Microsoft.EntityFrameworkCore.Infrastructure;
+
 
 namespace KRoos_29590868_Project2_DimensionData.Data
 {
@@ -13,6 +16,7 @@ namespace KRoos_29590868_Project2_DimensionData.Data
             : base(options)
         {
         }
+
         public DbSet<KRoos_29590868_Project2_DimensionData.Models.CostToCompany> CostToCompany { get; set; }
         public DbSet<KRoos_29590868_Project2_DimensionData.Models.Employee> Employee { get; set; }
         public DbSet<KRoos_29590868_Project2_DimensionData.Models.EmployeeDetails> EmployeeDetails { get; set; }
